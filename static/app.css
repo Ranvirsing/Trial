@@ -150,7 +150,7 @@ h2 {
   position: absolute;
   left:0;
   top:0;
-  width:100%;
+  max-width: 480px;
   height:100vh;
   animation: animate 16s ease-in-out infinite;
   background-size:cover;
