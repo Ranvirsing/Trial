@@ -2,7 +2,6 @@
 
 
 .form {
-	max-width: 720px;
 	font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
 	line-height: 1.5;
 	margin: 100px auto;
@@ -148,7 +147,7 @@ h2 {
 }
 .img {
   position: absolute;
-  max-width: 720px;
+  width: 100%;
   left:0;
   top:0;
   height:100vh;
