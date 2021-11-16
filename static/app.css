@@ -34,7 +34,7 @@ h2 {
   border-radius: 10px;
   border-color: #00c2ba;
   box-sizing: border-box;
-  font-size: 15px;
+  font-size: 25px;
   height: 35px;
   text-align: center;
 }
@@ -49,7 +49,7 @@ h2 {
   border-radius: 10px;
   border-color: #00c2ba;
   box-sizing: border-box;
-  font-size: 15px;
+  font-size: 25px;
   height: 35px;
   text-align: center;
 }
@@ -64,7 +64,7 @@ h2 {
   border-radius: 10px;
   border-color: #00c2ba;
   box-sizing: border-box;
-  font-size: 15px;
+  font-size: 25px;
   height: 35px;
   text-align: center;
 }
@@ -79,7 +79,7 @@ h2 {
   border-radius: 10px;
   border-color: #00c2ba;
   box-sizing: border-box;
-  font-size: 15px;
+  font-size: 25px;
   height: 35px;
   text-align: center;
 }
@@ -94,7 +94,7 @@ h2 {
   border-radius: 10px;
   border-color: #00c2ba;
   box-sizing: border-box;
-  font-size: 15px;
+  font-size: 25px;
   height: 35px;
   text-align: center;
 }
@@ -120,7 +120,7 @@ h2 {
   border-color: #00c2ba;
   margin: 25px 0 10px;
   box-sizing: border-box;
-  font-size: 15px;
+  font-size: 25px;
   height: 35px;
   text-align: center;
   color: white;
@@ -150,7 +150,7 @@ h2 {
   position: absolute;
   left:0;
   top:0;
-  max-width: 480px;
+  width: 100%;
   height:100vh;
   animation: animate 16s ease-in-out infinite;
   background-size:cover;
