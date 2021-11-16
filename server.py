@@ -5,5 +5,4 @@ def apps():
     return render_template('app.html')
 
 if __name__ == '__main__':
-    apps()
     app.run()
