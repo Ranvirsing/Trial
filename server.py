@@ -1,4 +1,4 @@
-from flask import Flask,jsonify,render_template,request
+from flask import Flask,jsonify,render_template,request,url_for
 app=Flask(__name__,static_folder='/static/')
 @app.route('/')
 def apps():
