@@ -3,7 +3,7 @@ app=Flask(__name__)
 @app.route('/')
 def apps():
     return render_template('app.html')
-@app.route('/get_est_price', methods = ['POST'])
+@app.route('get_est_price', methods=['GET','POST'])
 def get_est_price():
     year=int(request.form['year'])
     km=int(request.form['km'])
